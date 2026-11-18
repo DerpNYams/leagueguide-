@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": "ahri-mid-guide",
+      "title": "Ahri Mid Guide",
+      "date": "2026-11-15",
+      "category": "Mid Lane",
+      "summary": "A simple Ahri build focused on landing Charm, staying safe in lane, and helping your team in fights.",
+      "location": "Beginner Friendly",
+      "published": true
+    },
+    {
+      "id": "garen-top-guide",
+      "title": "Garen Top Guide",
+      "date": "2026-11-12",
+      "category": "Top Lane",
+      "summary": "Use Garen's passive to recover health, trade with Q and E, and save his ultimate for low-health enemies.",
+      "location": "Beginner Friendly",
+      "published": true
+    },
+    {
+      "id": "jinx-adc-guide",
+      "title": "Jinx ADC Guide",
+      "date": "2026-11-10",
+      "category": "Bottom Lane",
+      "summary": "Farm safely early, switch between minigun and rockets, and use Jinx's range during late-game team fights.",
+      "location": "Intermediate",
+      "published": false
+    }
+  ],
+  "messages": []
+}
